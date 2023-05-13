@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'ebn';
+    src: url('../fonts/ElleBaskerville.woff2') format('woff2'),
+        url('../fonts/ElleBaskerville.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'ebi';
+    src: url('../fonts/ElleBaskerville-BoldItalic.woff2') format('woff2'),
+        url('../fonts/ElleBaskerville-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
